@@ -5,4 +5,10 @@
     System.out.println();
   }
 - System.out.print();
-
+- continue;
+- break;
+- while(){}
+- do()while{}
+- if
+- for
+-
