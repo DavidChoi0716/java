@@ -30,3 +30,6 @@
 - 객체
 - 가비지컬렉터
 - singleton 패턴
+
+정상종료 -> System.exit(0);
+비정상종료 -> System.exit(-1);
