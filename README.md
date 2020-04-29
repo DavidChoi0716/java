@@ -23,3 +23,6 @@
 - this.
 - int[] = new int[number];
 - String[] = new String[]{a, b, c,d }
+- 객체
+- 가비지컬렉터
+- singleton 패턴
