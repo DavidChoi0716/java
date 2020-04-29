@@ -31,5 +31,7 @@
 - 가비지컬렉터
 - singleton 패턴
 
-정상종료 -> System.exit(0);
-비정상종료 -> System.exit(-1);
+프로그램자체정상종료 -> System.exit(0);
+프로그램자체비정상종료 -> System.exit(-1);
+
+return; -> 메서드종료 
