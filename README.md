@@ -8,7 +8,9 @@
 - public static void main(String[] args) {
     System.out.println();
   }
+  
 - System.out.print();
+
 - continue;
 - break;
 - while(){}
@@ -19,3 +21,5 @@
 - class
 - 생성자
 - this.
+- int[] = new int[number];
+- String[] = new String[]{a, b, c,d }
