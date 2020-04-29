@@ -1,7 +1,11 @@
 # java
 - import java.util.Scanner;
     Scaneer sc = new Scanner(System.in);
-    
+
+-> sc.nextInt();
+-> sc.nextDobule();
+-> sc.next();
+
 - import java.util.Random;
     Random rd = new Random();
     
