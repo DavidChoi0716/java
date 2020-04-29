@@ -11,4 +11,7 @@
 - do()while{}
 - if
 - for
--
+- method
+- class
+- 생성자
+- this.
