@@ -37,5 +37,8 @@
 return; -> 메서드종료 
 
 
--eclipse설치
+<eclipse설치>
 -src : source의 약자
+-main 타이핑 후 ctrl + space
+-syso 타이핑 후 ctrl + space
+
