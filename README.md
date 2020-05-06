@@ -35,3 +35,7 @@
 프로그램자체비정상종료 -> System.exit(-1);
 
 return; -> 메서드종료 
+
+
+-eclipse설치
+-src : source의 약자
