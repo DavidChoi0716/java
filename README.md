@@ -43,5 +43,5 @@ return; -> 메서드종료
 - 프린트 출력: syso 타이핑 후 ctrl + space
 - 컴파일 후 실행: ctrl+f11
 - windows - preferences: 이클립스 환경 설정
-- ctrl+shift++ or ctrl+shift+- : 글자크기조정
+- ctrl+플러스 or ctrl+마이너스 : 글자크기조정
 
