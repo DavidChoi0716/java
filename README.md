@@ -48,3 +48,15 @@ return; -> 메서드종료
 -> printResult("apple".equals("APPLE")); // 다르다
 -> printResult("apple".equalsIgnoreCase("Apple")); // 같다
 
+# project -> package -> class 
+
+# static
+
+# 접근지정자 / 접근제어자 
+-> public, private, protected, default
+
+# 오버로딩
+
+# 상속
+
+# 오버라이딩
